@@ -10,4 +10,4 @@ For the Web Developer Portfolio challenge solution, flexbox was used instead of 
 [Solution web Page](https://kisacasumderler.github.io/web-siteler/Web-Developer-Portfolio/index.html)
 
 
-![desktop](./preview/chrome-capture-2023-4-22.png "desktop")
+![desktop](./preview/chrome-capture-2023-3-22.png "desktop")
