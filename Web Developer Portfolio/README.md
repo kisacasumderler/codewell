@@ -11,4 +11,4 @@ For the Web Developer Portfolio challenge solution, flexbox was used instead of 
 
 
 ![desktop](./preview/chrome-capture-2023-3-22.png "desktop")
-![mobile](./preview/chrome-capture-2023-3-22 (1).png "mobile")
+![mobile](./preview/chrome-capture-2023-3-22-1.png "mobile")
